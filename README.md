@@ -1,3 +1,2 @@
 # my-Ruby-programs
-Here are my public Ruby programs, some of them are my answers for specific questions
-This is Allen testing the function of GitHub
+Here are some of my Ruby applicaitons, ranging from my practices and some answers for tech interview questions.
